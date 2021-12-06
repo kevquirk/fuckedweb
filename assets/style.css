@@ -82,13 +82,6 @@ footer {
   text-align: center;
 }
 
-.sub-heading {
-  font-size: 1.3rem;
-  font-family: var(--serif-font);
-  font-style: italic;
-  margin-top: -1rem;
-}
-
 a {
   color: var(--text);
   text-decoration-color: var(--accent);
@@ -98,4 +91,15 @@ a {
 
 a:hover {
   color: var(--accent);
+}
+
+.sub-heading {
+  font-size: 1.3rem;
+  font-family: var(--serif-font);
+  font-style: italic;
+  margin-top: -1rem;
+}
+
+.small {
+  font-size: .9rem;
 }
