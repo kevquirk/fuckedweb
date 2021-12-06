@@ -1,0 +1,101 @@
+/* Global variables */
+:root {
+  --bg: #fafafa;
+  --text: #333;
+  --accent: hotpink;
+  --serif-font: Iowan Old Style, Apple Garamond, Baskerville, Georgia, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --sans-font: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+  --mono-font: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+}
+
+/* Change to dark theme */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #333;
+    --text: #FAFAFA;
+  }
+}
+
+body {
+  font-family: var(--sans-font);
+  font-size: 1.25rem;
+  line-height: 1.5;
+  background: var(--bg);
+  color: var(--text);
+  margin: 0;
+}
+
+.content {
+  display: block;
+  margin: 0 auto;
+  max-width: 40rem;
+  padding: 0 1rem;
+  background: var(--bg);
+}
+
+header {
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
+h1,h2,h3 {
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 0;
+  padding-top: 2rem;
+}
+
+h2 {
+  font-size: 2.6rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+h2, h3 {
+  margin-top: 3rem;
+}
+
+/* Reduce header size on mobile */
+@media only screen and (max-width: 750px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+  h2 {
+    font-size: 2.1rem;
+  }
+  h3 {
+    font-size: 1.75rem;
+  }
+}
+
+footer {
+  font-family: var(--serif-font);
+  font-size: 1rem;
+  border-top: 1px solid var(--text);
+  padding: 1rem 0;
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.sub-heading {
+  font-size: 1.3rem;
+  font-family: var(--serif-font);
+  font-style: italic;
+  margin-top: -1rem;
+}
+
+a {
+  color: var(--text);
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: .15rem;
+  transition: .2s;
+}
+
+a:hover {
+  color: var(--accent);
+}
