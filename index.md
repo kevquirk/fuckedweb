@@ -25,3 +25,13 @@ This is my manifesto. A warning to everyone who uses the web; it's fucked and it
 
 ## Fuck this
 * There's nothing we can do - it's already too late
+
+* A simple layout - an entire site thewebisfucked.com
+* Why ‘professional blogging’ has ruined personal blogging
+* https://sadgrl.online/newoldweb/manifesto.html
+* https://yesterweb.org/manifesto/
+* https://rubedo.work/oldweb.html
+* https://neustadt.fr/essays/the-small-web/
+* https://ar.al/2020/08/07/what-is-the-small-web/
+* https://jeffhuang.com/designed_to_last/
+* What can we do?
