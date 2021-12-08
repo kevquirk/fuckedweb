@@ -71,6 +71,8 @@ Lucky for us, there are still some parts of the Internet that are [weirdly wonde
 
 ## What about Web 3.0?
 
+### Fuck blockchain
+
 ## Fuck this
 * There's nothing we can do - it's already too late
 
