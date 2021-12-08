@@ -1,11 +1,21 @@
 /* Global variables */
 :root {
-  --bg: #fafafa;
+  --bg: #f1f1f1;
+  --accent-bg: #ddd;
   --text: #333;
   --accent: #FF5722;
   --serif-font: 'Merriweather', Iowan Old Style, Apple Garamond, Baskerville, Georgia, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
   --sans-font: 'Fira Sans Condensed', -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
   --mono-font: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+}
+
+/* Change to dark theme */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #333;
+    --accent-bg: #1a1a1a;
+    --text: #f1f1f1;
+  }
 }
 
 /* merriweather-300 - latin */
@@ -104,22 +114,18 @@
   /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-
-/* Change to dark theme */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #333;
-    --text: #FAFAFA;
-  }
-}
-
 body {
   font-family: var(--serif-font);
   font-size: 1.25rem;
+  text-align: justify;
   line-height: 1.5;
   background: var(--bg);
   color: var(--text);
   margin: 0;
+}
+
+p, img {
+  margin: 1.5rem 0;
 }
 
 .content {
@@ -142,8 +148,8 @@ h1,h2,h3 {
 }
 
 h1 {
-  font-size: 3rem;
-  margin-top: 0;
+  font-size: 4rem;
+  margin: 0 0 1.5rem 0;
   padding-top: 2rem;
 }
 
@@ -162,7 +168,7 @@ h2, h3 {
 /* Reduce header size on mobile */
 @media only screen and (max-width: 750px) {
   h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
   }
   h2 {
     font-size: 2.1rem;
@@ -192,6 +198,18 @@ a:hover {
   color: var(--accent);
 }
 
+img {
+  max-width: 100%;
+}
+
+img+em {
+  text-align: center;
+  display: block;
+  font-size: .9rem;
+  font-family: var(--sans-font);
+  margin: -1.5rem 0 2rem 0;
+}
+
 .sub-heading {
   font-style: italic;
   margin-top: -1rem;
@@ -199,4 +217,13 @@ a:hover {
 
 .small {
   font-size: .9rem;
+}
+
+.notice {
+  border: 2px solid var(--text);
+  background: var(--accent-bg);
+  font-family: var(--sans-font);
+  padding: 1rem;
+  margin: 2rem 0;
+  text-align: center;
 }
