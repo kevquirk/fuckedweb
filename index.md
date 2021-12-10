@@ -155,5 +155,5 @@ Then again, the web might be completely and utterly fucked and it's only gonna g
 
 <div class="acknowledgements">
   <h2>Acknowledgements</h2>
-<p>I'd like to thank both <a href="https://davidrutland.com/">David Rutland</a> and <a> href="https://tdarb.org/">Bradley Taunt</a> for providing valuable feedback and helping me edit this manifesto.</p>
+<p>I'd like to thank both <a href="https://davidrutland.com/">David Rutland</a> and <a href="https://tdarb.org/">Bradley Taunt</a> for providing valuable feedback and helping me edit this manifesto.</p>
 </div>
