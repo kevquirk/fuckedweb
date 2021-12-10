@@ -151,7 +151,9 @@ But a long as we use the web with our eyes open and try to take advantage of the
 
 Then again, the web might be completely and utterly fucked and it's only gonna get worse. One thing is for sure, if Zuck the crook has anything to do with Web 3.0, things will *definitely* get worse.
 
-If you want to tell me your thoughts on this whole big shit show, please feel free to [get in touch](https://kevq.uk/contact).
+**If you want to tell me your thoughts on this whole big shit show, please feel free to [get in touch](https://kevq.uk/contact).**
 
-## Acknowledgements
-I'd like to thank both [David Rutland](https://davidrutland.com/) and [Bradley Taunt](https://tdarb.org/) for providing valuable feedback and helping me edit this manifesto.
+<div class="acknowledgements">
+  <h2>Acknowledgements</h2>
+<p>I'd like to thank both <a href="https://davidrutland.com/">David Rutland</a> and <a> href="https://tdarb.org/">Bradley Taunt</a> for providing valuable feedback and helping me edit this manifesto.</p>
+</div>

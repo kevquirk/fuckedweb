@@ -133,3 +133,15 @@ img+em {
   margin: 2rem 0;
   text-align: center;
 }
+
+.acknowledgements {
+  font-family: var(--serif);
+  font-size: 1rem;
+  border-top: 1px solid var(--text);
+  margin-top: 5rem;
+}
+
+.acknowledgements h2 {
+  font-family: var(--serif);
+  font-size: 1.3rem;
+}
