@@ -4,11 +4,15 @@ description: The web is fucked and there's nothing we can do about it. This is a
 layout: default
 image: /assets/images/feature.png
 ---
-I have something to tell you, dear reader. **The web is fucked and there's nothing we can do about it.** It's a sad state of affairs that we're in - gone are the days of Web 1.0 where the humble personal blog and the likes of [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) reigned supreme.
+I have something to tell you, dear reader. **The web is fucked.** It's a sad state of affairs that we're in - gone are the days of Web 1.0 where the humble personal blog and the likes of [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) reigned supreme.
 
-Instead we've been left with Web 1.0's rotten remains where centralisation, monopolies and tracking are the order of the day. *It's shit*.
+Instead we've been left with Web 1.0's rotten remains where centralisation, monopolies and tracking are the order of the day.
 
-The Internet has been monetised by social media, my big tech, by search engines. Fuck, it's been monetised by pretty much everyone. The whole concept of [netizens](https://www.merriam-webster.com/dictionary/netizen) and a community around the web, from the late 90s and early 00s, have been lost to the sands of time. *Again, it's shit.*
+*It's shit*.
+
+The Internet has been monetised by social media, by big tech, by search engines. Fuck, it's been monetised by pretty much everyone. The whole concept of [netizens](https://www.merriam-webster.com/dictionary/netizen) and a community around the web, from the late 90s and early 00s, have been lost to the sands of time.
+
+*Again, it's shit.*
 
 **This is my manifesto; a warning to everyone who uses the web. It's fucked and it's not gonna change.**
 
@@ -20,7 +24,7 @@ I suppose a good place to start would be with some context. If you weren't a use
 
 In short, it was glorious. Many people had personal web sites, usually published on GeoCities, where exploring the web was a fun adventure that was *not* fuelled by algorithms.
 
-![Geocities homepage circa 1999](/assets/images/geocities-homepage.webp)
+![Geocities homepage circa 1999](/assets/images/geocities-homepage.webp){:loading="lazy"}
 *GeoCities homepage circa 1999*
 
 You could find all kinds of web pages, about all kinds of topics. Search engine optimisation didn't exist. Fuck, there were *no search engines* in the early days.
@@ -31,9 +35,9 @@ You would wander aimlessly through the wilds of the Internet, constantly perusin
 
 That's too surgical. Too informal. It was a community. We were netizens.
 
-I fondly remember perusing Web 1.0 and reading anything from blogs about The Simpsons, to *very* personal updates, and everything in between. [GeoCities neighbourhoods](https://en.wikipedia.org/wiki/Yahoo!_GeoCities#Neighborhoods) were great fun to wade through and learn about *so much* stuff.
+I fondly remember perusing Web 1.0 and reading anything from blogs about The Simpsons, to *very* personal updates, and everything in between. [GeoCities neighbourhoods](https://en.wikipedia.org/wiki/Yahoo!_GeoCities#Neighborhoods) were great fun to wade through and learn about *all kinds* of stuff.
 
-It very much was *not* shit.
+*It very much was **not** shit.*
 
 ### Web 1.0 design
 Websites of today tend to follow a tried and tested paradigm when it comes to design. Sure, things differ slightly, but it's generally the same script:
@@ -41,32 +45,52 @@ Websites of today tend to follow a tried and tested paradigm when it comes to de
 * A couple of colours with large amounts of white space
 * A header that contains a hamburger menu
 * Mahoosive features images
-* Ridiculous large and over-complicated frameworks
+* Ridiculously large and over-complicated frameworks
 * All the JavaScript
 * All the tracking
 * All the adverts
 * Maybe, just *maybe*, some useful content
 
-Back in the Web 1.0 days, web design (if you can call it that) was *very* different to how it is today. Scrolling marquees, blinking text, all the GIFs. It was great fun!
+Back in the days of Web 1.0, web design (if you can call it that) was *very* different to how it is today. Scrolling marquees, blinking text, all the GIFs. It was great fun!
 
-CSS was still in its infancy, so you couldn't do all the cool stuff we can do today, which meant people had to think outside the box. Sure, accessibility was pretty low down the people's priorities (read: not there at all) but some of the designs were amazing, unique and most of all, interesting.
+CSS was still in its infancy, so we couldn't do all the cool stuff we can do today, which meant people had to think outside the box. Sure, accessibility was pretty low down the people's priorities (read: not there at all) but some of the designs were amazing, unique and most of all, interesting.
 
-![GeoCities Example](/assets/images/geocities-example.webp)
+{: .full-bleed}
+![GeoCities Example](/assets/images/geocities-example.webp){: loading="lazy"}
 
-![GeoCities Example](/assets/images/geocities-example2.webp)
+{: .full-bleed}
+![GeoCities Example](/assets/images/geocities-example2.webp){: loading="lazy"}
 
-![GeoCities Example](/assets/images/geocities-example3.webp)
+{: .full-bleed}
+![GeoCities Example](/assets/images/geocities-example3.webp){: loading="lazy"}
 
 Look at those glorious manifestations of 90s web design! Quite a lot different from the cookie-cutter design of today, right?
 
 Lucky for us, there are still some parts of the Internet that are [weirdly wonderful](https://weirdwidewebring.net/) and [wildly whimsical](https://whimsical.club/).
+
+### The humble web forum
+Web 1.0 wasn't just about personal blogs, GeoCities and scrolling marquees. Oh no, dear reader. We had our own version of social media back in the day - the [web forum](https://en.wikipedia.org/wiki/Internet_forum).
+
+They were fantastic pieces of software that allowed communities to come together, discuss specific topics and generally hang out.
+
+Anyone who used a web forum for any length of time is likely to reminisce fondly about their time there, and about the friends they undoubtedly made.
+
+{: .full-bleed}
+![Forum example](/assets/images/forum-example.webp){: loading="lazy"}
+
+Forums have stood the test of time and still exist today. I myself often frequent the [Royal Enfield owners forum](https://www.royalenfieldowners.com/index.php).
+
+Sure, forums are a little different today, and ads have managed to sneak their way in. But that's usually to support the upkeep of the forums, rather than to exploit their users for gross amounts of profit. Which is fine with me as long as they're non-intrusive.
+
+We were happy. We had our personal blogs, our net neighbourhoods and our community forums. The web, version 1.0, was a fun and interesting place to be. But...
 
 ## Then came Web 2.0
 This is where things all start to go to rat shit. Web 2.0 is when a shift to social media and interactive platforms came about.
 
 Instead of having interesting content creators sharing their experiences and knowledge on their personal blogs, guestbooks and forums, we started to see pictures of people's lunch, political and social hyperbole and a whole load of other shit to boot.
 
-![The original Facebook homepage](/assets/images/original-facebook.webp)
+{: .full-bleed}
+![The original Facebook homepage](/assets/images/original-facebook.webp){: loading="lazy"}
 *The original Facebook homepage*
 
 ### Fuck social media
@@ -107,7 +131,17 @@ With all of this manipulation of results, you're likely to get the results you *
 
 You could write *the best*, most informed post on any given topic, but if it isn't "search engine optimised" it will never see the light of day.
 
-This has effectively killed off the humble personal blog. [Personal blogging isn't dead yet](https://metaletter.net/issue-01/), but it's *extremely* difficult to gain any traction with a blog these days.
+Even if you do get your SEO juice just right, there's still a chance that your post wouldn't appear at the top of the search rankings. Do you know why, dear reader? You guessed it...**MONEY**!
+
+Yes, it's that old chestnut again. The moolar. The green. The Benjamins. Look at the examples below, on Google the entire fucking page above the fold is ads. DuckDuckGo is slightly better, and they're also [more private](https://duckduckgo.com/privacy).
+
+{: .full-bleed}
+![Google Ads in results](/assets/images/google-results.webp){: loading="lazy"}
+
+{: .full-bleed}
+![DuckDuckGo Ads in results](/assets/images/ddg-results.webp){: loading="lazy"}
+
+All of this has effectively killed off the humble personal blog. [Personal blogging isn't dead yet](https://metaletter.net/issue-01/), but it's *extremely* difficult to gain any traction with a blog these days.
 
 Google et al where supposed to make content discovery easier. What the fuck happened?
 
@@ -129,7 +163,8 @@ GeoCities is long gone. It's dead, Jim. But there are still ways of discovering 
 
 [Neocities](https://neocities.org) is a modern day implementation of GeoCities and it's chock full of a great sites that would have fitted nicely into the Internet of the 90s and 00s.
 
-![Neocities website browser](/assets/images/neocities-browser.webp)
+{: .full-bleed}
+![Neocities website browser](/assets/images/neocities-browser.webp){: loading="lazy"}
 
 Just like on GeoCities, you can spin up your own site for free, and for a mere $5/month you can have things like a custom domain etc. It's great.
 
@@ -152,8 +187,3 @@ But a long as we use the web with our eyes open and try to take advantage of the
 Then again, the web might be completely and utterly fucked and it's only gonna get worse. One thing is for sure, if Zuck the crook has anything to do with Web 3.0, things will *definitely* get worse.
 
 **If you want to tell me your thoughts on this whole big shit show, please feel free to [get in touch](https://kevq.uk/contact).**
-
-<div class="acknowledgements">
-  <h2>Acknowledgements</h2>
-<p>I'd like to thank both <a href="https://davidrutland.com/">David Rutland</a> and <a href="https://tdarb.org/">Bradley Taunt</a> for providing valuable feedback and helping me edit this manifesto.</p>
-</div>

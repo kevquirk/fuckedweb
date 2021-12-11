@@ -4,8 +4,8 @@
   --accent-bg: #ddd;
   --text: #333;
   --accent: #FF5722;
-  --serif: Iowan Old Style, Apple Garamond, Baskerville, Georgia, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-  --sans: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+  --serif: MetaSerifPro, Iowan Old Style, Apple Garamond, Baskerville, Georgia, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --sans: 'Fira Sans Condensed', -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
   --mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
 }
 
@@ -13,13 +13,93 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #333;
-    --accent-bg: #1a1a1a;
-    --text: #f1f1f1;
+    --accent-bg: #222;
+    --text: #ccc;
   }
 }
 
+/**** FONTS ****/
+
+/* Mets Serif */
+@font-face {
+    font-family: 'MetaSerifPro';
+    src: url('/assets/fonts/meta-serif/MetaSerifPro-BoldIta.woff2') format('woff2'),
+        url('/assets/fonts/meta-serif/MetaSerifPro-BoldIta.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MetaSerifPro';
+    src: url('/assets/fonts/meta-serif/MetaSerifPro-Bold.woff2') format('woff2'),
+        url('/assets/fonts/meta-serif/MetaSerifPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MetaSerifPro';
+    src: url('/assets/fonts/meta-serif/MetaSerifPro-Book.woff2') format('woff2'),
+        url('/assets/fonts/meta-serif/MetaSerifPro-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MetaSerifPro';
+    src: url('/assets/fonts/meta-serif/MetaSerifPro-BookIta.woff2') format('woff2'),
+        url('/assets/fonts/meta-serif/MetaSerifPro-BookIta.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+/* Fira Sans */
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+    url('/assets/fonts/fira/fira-sans-condensed-v5-latin-regular.woff2') format('woff2'),
+    url('/assets/fonts/fira/fira-sans-condensed-v5-latin-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+    url('/assets/fonts/fira/fira-sans-condensed-v5-latin-italic.woff2') format('woff2'),
+    url('/assets/fonts/fira/fira-sans-condensed-v5-latin-italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local(''),
+    url('/assets/fonts/fira/fira-sans-condensed-v5-latin-600.woff2') format('woff2'),
+    url('/assets/fonts/fira/fira-sans-condensed-v5-latin-600.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Fira Sans Condensed';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: local(''),
+    url('/assets/fonts/fira/fira-sans-condensed-v5-latin-600italic.woff2') format('woff2'),
+    url('/assets/fonts/fira/fira-sans-condensed-v5-latin-600italic.woff') format('woff');
+}
+
 body {
-  font-family: var(--sans);
+  font-family: var(--serif);
   font-size: 1.25rem;
   text-align: justify;
   line-height: 1.5;
@@ -28,21 +108,33 @@ body {
   margin: 0;
 }
 
-p, img {
-  margin: 1.5rem 0;
+main {
+  display: grid;
+  grid-template-columns:
+    1fr min(40rem, 90%) 1fr;
 }
 
-.content {
-  display: block;
-  margin: 0 auto;
-  max-width: 40rem;
-  padding: 0 1rem;
-  background: var(--bg);
+main>* {
+  grid-column: 2;
+}
+
+.full-bleed {
+  width: 100%;
+  grid-column: 1 / -1;
+  box-sizing: border-box;
 }
 
 header {
-  margin-bottom: 4rem;
+  margin-bottom: 1rem;
   text-align: center;
+  background: var(--accent-bg);
+  padding-bottom: 1rem;
+}
+
+.container {
+  display: block;
+  max-width: 40rem;
+  margin: 0 auto;
 }
 
 h1,h2,h3 {
@@ -104,14 +196,16 @@ a:hover {
 
 img {
   max-width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 img+em {
   text-align: center;
+  font-style: normal;
   display: block;
   font-size: .9rem;
   font-family: var(--sans);
-  margin: -1.5rem 0 2rem 0;
 }
 
 .sub-heading {
@@ -123,6 +217,7 @@ img+em {
 
 .small {
   font-size: .9rem;
+  font-family: var(--sans);
 }
 
 .notice {
@@ -135,13 +230,14 @@ img+em {
 }
 
 .acknowledgements {
-  font-family: var(--serif);
+  font-family: var(--sans);
   font-size: 1rem;
   border-top: 1px solid var(--text);
   margin-top: 5rem;
+  padding-top: 1rem;
 }
 
 .acknowledgements h2 {
-  font-family: var(--serif);
+  font-family: var(--sans);
   font-size: 1.3rem;
 }
