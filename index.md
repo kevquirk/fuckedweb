@@ -31,9 +31,11 @@ You could find all kinds of web pages, about all kinds of topics. Search engine 
 
 If you wanted to find something, you had to hunt for it and that was all part of the fun. There's a reason it's called *surfing the web* and that traditional browsers, like Netscape Navigator, had a nautical theme.
 
-You would wander aimlessly through the wilds of the Internet, constantly perusing all the great content that netizens were putting out into the world. You wouldn't hit a search, find something you wanted to read, then leave.
+You were the captain of a ship, sailing aimlessly through the wilds of the Web. Occasionally you would drop anchor and stop to peruse all the great content that netizens were putting out into the world.
 
-That's too surgical. Too informal. It was a community. We were netizens.
+Once you had finished, you would pull up the anchor and carry on your journey of discovery for more great content.
+
+You wouldn't hit a search, find something you wanted to read, then leave. That's too surgical. Too informal. It was a community. We were netizens.
 
 I fondly remember perusing Web 1.0 and reading anything from blogs about The Simpsons, to *very* personal updates, and everything in between. [GeoCities neighbourhoods](https://en.wikipedia.org/wiki/Yahoo!_GeoCities#Neighborhoods) were great fun to wade through and learn about *all kinds* of stuff.
 
@@ -96,36 +98,38 @@ Instead of having interesting content creators sharing their experiences and kno
 ### Fuck social media
 The rise of social media flipped content creation on its head. Instead of deliberately creating and editing content for static sites, people were now empowered to quickly and easily vomit their passing thoughts out to the world.
 
-On the face of things, this may sounds great. Social media is empowering people to easily create content online, allowing anyone with an Internet connection to have a voice.
+On the face of things, this may sound great. Social media was empowering people to easily create content online. It was allowing anyone with an Internet connection to have a voice.
 
-The problem here, dear reader, is that social media was never about empowering people. Nope, was it fuck. It was all about one thing...
+The problem here, dear reader, is that social media was never about empowering people. It was all about one thing...
 
 **MONEY!**
 
-All that time you spend reading about that person from school you've never spoken to, you're being tracked like a mother fucker.
+All that time you spend reading about that person from school you've never spoken to, you're being tracked like a motherfucker.
 
-Facebook is by far the worst offender for this. If they wanted to, those fuckers would be able to tell how bad your shit smells. But why all the tracking? Well, again it comes down to one thing...money.
+Facebook is by far the worst offender for this. If they wanted to, those fuckers could tell how bad your shit smells. But why all the tracking? Well, again it comes down to one thing...money.
 
-They track you so they can use this data to display more targeted ads on the platform. By having highly targeted ads, you're more likely to click; and if you're more likely to click, they make more money.
+They track you so they can use your data to display more targeted ads on their platform. By having highly targeted ads, you're more likely to click; and if you're more likely to click, they make more money.
 
-**[Mark Zuckerberg doesn't give two shits about your privacy](https://www.businessinsider.com/well-these-new-zuckerberg-ims-wont-help-facebooks-privacy-problems-2010-5?r=US&IR=T) - if you're a Facebook user, you should be re-considering your life choices.**
+**[Mark Zuckerberg doesn't give two shits about your privacy](https://www.businessinsider.com/well-these-new-zuckerberg-ims-wont-help-facebooks-privacy-problems-2010-5?r=US&IR=T) - if you're a Facebook user, you should be reconsidering your life choices.**
 
 ### Fuck search engines
 Although Zuckerberg and his merry band of wankers have a lot to answer for, the death of web 1.0 and the humble personal blog is not their fault alone. Search plays a huge part in this shit show too.
 
-Back in the day, search engines were rudimentary at best, but they have since grown into these Goliaths were even [Google don't really understand how their shit works](https://www.seroundtable.com/google-dont-understand-rankbrain-21744.html).
+Back in the day, search engines were rudimentary at best, but they have since grown into these Goliaths were even [Google doesn't really understand how their shit works](https://www.seroundtable.com/google-dont-understand-rankbrain-21744.html).
 
-In some ways this is good, as we get far more accurate search results. But it also has 2 very important problems too. Let me explain...
+In some ways this is good, as we get far more accurate search results. But there are two very important problems with this...
 
-Firstly, as with social media, *it's all about money*. So the humble personal blog is often left out of search rankings, and is replaced my corporate entities that have teams of people on-hand who can manipulate the search rankings to their will.
+Firstly, as with social media, *it's all about money*. The humble personal blog is often left out of search rankings, and is replaced by corporate entities who have teams of people on-hand that can manipulate the search rankings to their will.
 
 This is known as *Search Engine Optimisation* (SEO) in the industry.
 
 The second problem is that because of all the aforementioned tracking, your Google search results become an echo chamber. You see, Google learns as you search and the more data you feed it, the more "accurate" the results become for you.
 
-Try it yourself, do a Google search for something on your normal browser, then [download the TOR browser](https://www.torproject.org/download/) and try the same search again. I guarantee the results will be different.
+Try it yourself, do a Google search for something with your normal browser. Then [download the TOR browser](https://www.torproject.org/download/) and try the same search again. I guarantee the results will be different.
 
-It's a double whammy. Corporate website owners are manipulating results so you're more likely to see their shitty listicle posts instead of actual useable content that has been written by someone competent. And to add insult to injury, Google are also manipulating the results based on you a shit tonne of data they have tracked you with.
+It's a double whammy. Corporate website owners are manipulating results so you're more likely to see their shitty listicle posts instead of actual usable content that has been written by someone competent.
+
+To add insult to injury, Google is also manipulating the results based on the shit tonne of data they have on you.
 
 With all of this manipulation of results, you're likely to get the results you *think* you want, but you're unlikely to get the *best* results.
 
@@ -133,7 +137,7 @@ You could write *the best*, most informed post on any given topic, but if it isn
 
 Even if you do get your SEO juice just right, there's still a chance that your post wouldn't appear at the top of the search rankings. Do you know why, dear reader? You guessed it...**MONEY**!
 
-Yes, it's that old chestnut again. The moolar. The green. The Benjamins. Look at the examples below, on Google the entire fucking page above the fold is ads. DuckDuckGo is slightly better, and they're also [more private](https://duckduckgo.com/privacy).
+Yes, it's that old chestnut again. The moolah. The green. The Benjamins. Look at the examples below. On Google the entire fucking page above the fold is ads. DuckDuckGo is slightly better, and they're also [more private](https://duckduckgo.com/privacy).
 
 {: .full-bleed}
 ![Google Ads in results](/assets/images/google-results.webp){: loading="lazy"}
@@ -146,12 +150,12 @@ All of this has effectively killed off the humble personal blog. [Personal blogg
 Google et al where supposed to make content discovery easier. What the fuck happened?
 
 ## Don't fuck yourself
-This is all very negative, isn't it. So let's inject some positivity into this shit show, shall we? *The web is fucked* that's a fact. But there are still ways you can take Web 1.0 and sprinkle it with a little Web 2.0 so that you can use it to your advantage.
+This is all very negative, so let's inject some positivity into this shit show, shall we? *The web is fucked* that's a fact, but there are still ways you can take Web 1.0 and sprinkle it with a little Web 2.0 so you can use it to your advantage.
 
 ### Don't be a social media shill
 I'm not saying you should avoid all social media - that shit's pretty much impossible these days and is reserved mainly for social pariahs.
 
-But you can choose which social platforms you use and how to use them so that it's done in a healthy way. Here's some tips:
+You can choose which social platforms you use and how to use them so that it's done in a healthy way. Here are some tips:
 
 * Get the fuck off Facebook. That shit is a cancer.
 * Look for decentralised alternatives, like [Mastodon](https://joinmastodon.org).
@@ -161,7 +165,7 @@ But you can choose which social platforms you use and how to use them so that it
 ## Discovering Web 1.0 content in a Web 2.0 world
 GeoCities is long gone. It's dead, Jim. But there are still ways of discovering netizen generated content, despite all the shit I've written about above.
 
-[Neocities](https://neocities.org) is a modern day implementation of GeoCities and it's chock full of a great sites that would have fitted nicely into the Internet of the 90s and 00s.
+[Neocities](https://neocities.org) is a modern day implementation of GeoCities and it's chock full of a great sites that would have fit nicely into the Internet of the 90s and 00s.
 
 {: .full-bleed}
 ![Neocities website browser](/assets/images/neocities-browser.webp){: loading="lazy"}
@@ -172,17 +176,17 @@ If you want to get *really* nostalgic, there are even pages on Neocities that ar
 
 If Neocities isn't your thing and you want to discover more modern personal blogs ([like mine](https://kevq.uk/posts)) then I got you covered there too. Sites like [Blog Surf](https://blogsurf.io/) and [Personalsit.es](https://personalsit.es/) can help you discover some great personal sites.
 
-Also look for a [blogroll](https://kevq.uk/blogroll) on personal websites you come across. If you own a website, **add a blogroll to your site**. It will help people discover content you enjoy without the need for Google's gaggle of gob shites.
+Also look for a [blogroll](https://kevq.uk/blogroll) on personal websites you come across. If you own a website, **add a blogroll to your site**. It will help people discover content you enjoy without the need for Google's gaggle of gobshites.
 
 ## What about Web 3.0?
-Don't worry, we're getting close to end now folks, but I wanted to quickly touch upon [Web 3.0 and the Metaverse](https://uk.finance.yahoo.com/news/explainer-what-is-metaverse-and-web-30-060003351.html). If you don't know what these are; the Metaverse is what that dickhead Zuckerberg is pushing with Meta. And Web 3.0 is basically putting all the things on blockchain.
+Don't worry, we're getting close to end now folks, but I wanted to quickly touch upon [Web 3.0 and the Metaverse](https://uk.finance.yahoo.com/news/explainer-what-is-metaverse-and-web-30-060003351.html). If you don't know what these are; the Metaverse is what that dickhead Zuckerberg is pushing with Meta and Web 3.0 is basically putting all the things on blockchain.
 
 Yeah, fuck that. Fuck blockchain. Fuck Meta. Fuck Zuck the schmuck. That's all I have to say about that.
 
 ## Fuck this
-I'm done. There you have it, that's my manifesto about how fucked the web is. Look, we will never get the web of old back and let's be honest, it wasn't perfect either. The web of today is more accessible, more dynamic and pretty much a cornerstone of our society.
+I'm done. There you have it. That's my manifesto about how fucked the web is. Look, we will never get the web of old back. Let's be honest, it wasn't perfect either. The web of today is more accessible, more dynamic and pretty much a cornerstone of our society.
 
-But a long as we use the web with our eyes open and try to take advantage of the few positives the web still provides, it *may* not be that bad.
+As long as we use the web with our eyes open and try to take advantage of the few positives it still provides, it *may* not be that bad.
 
 Then again, the web might be completely and utterly fucked and it's only gonna get worse. One thing is for sure, if Zuck the crook has anything to do with Web 3.0, things will *definitely* get worse.
 
