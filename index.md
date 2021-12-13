@@ -29,7 +29,7 @@ In short, it was glorious. Many people had personal web sites, usually published
 
 You could find all kinds of web pages, about all kinds of topics. Search engine optimisation didn't exist. Fuck, there were *no search engines* in the early days.
 
-If you wanted to find something, you had to hunt for it and that was all part of the fun. There's a reason it's called *surfing the web* and that traditional browsers, like Netscape Navigator, had a nautical theme.
+If you wanted to find something, you had to navigate your way to it and that was all part of the fun. There's a reason it's called *surfing the web* and that traditional browsers, like Netscape Navigator, had a nautical theme.
 
 You were the captain of a ship, sailing aimlessly through the wilds of the Web. Occasionally you would drop anchor and stop to peruse all the great content that netizens were putting out into the world.
 
