@@ -39,7 +39,7 @@ You wouldn't hit a search, find something you wanted to read, then leave. That's
 
 I fondly remember perusing Web 1.0 and reading anything from blogs about The Simpsons, to *very* personal updates, and everything in between. [GeoCities neighbourhoods](https://en.wikipedia.org/wiki/Yahoo!_GeoCities#Neighborhoods) were great fun to wade through and learn about *all kinds* of stuff.
 
-*It very much was **not** shit.*
+*It very much was NOT shit.*
 
 ### Web 1.0 design
 Websites of today tend to follow a tried and tested paradigm when it comes to design. Sure, things differ slightly, but it's generally the same script:
