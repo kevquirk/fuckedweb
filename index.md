@@ -2,7 +2,7 @@
 title: The Web Is Fucked
 description: The web is fucked and there's nothing we can do about it. This is a manifesto by Kev Quirk looking back at Web 1.0 and why it was better.
 layout: default
-image: /assets/images/feature.png
+image: /assets/images/feature.webp
 ---
 I have something to tell you, dear reader. **The web is fucked.** It's a sad state of affairs that we're in - gone are the days of Web 1.0 where the humble personal blog and the likes of [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) reigned supreme.
 
