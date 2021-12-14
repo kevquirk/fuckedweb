@@ -191,3 +191,14 @@ As long as we use the web with our eyes open and try to take advantage of the fe
 Then again, the web might be completely and utterly fucked and it's only gonna get worse. One thing is for sure, if Zuck the crook has anything to do with Web 3.0, things will *definitely* get worse.
 
 **If you want to tell me your thoughts on this whole big shit show, please feel free to [get in touch](https://kevq.uk/contact).**
+
+## Further reading
+If you enjoyed *The Web Is Fucked*, you might want to do a little more reading on the subject. If so, here's a few links to help you get started:
+
+* [Rediscovering the Old Web](https://neustadt.fr/essays/the-small-web/) by Parimal Satyal
+* [This Page is Designed to Last: A Manifesto for Preserving Content on the Web](https://jeffhuang.com/designed_to_last/) by Jeff Huang
+* [Old CSS, New CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/) by Eevee
+* [The Old Web](https://rubedo.work/oldweb.html) by Jack Clayton
+* [The Internet Has Changed](https://sadgrl.online/newoldweb/manifesto.html) by Sadgirl
+* [Yesterweb's list of manifestos](https://yesterweb.org/manifesto/)
+* [What is the Small Web?](https://ar.al/2020/08/07/what-is-the-small-web/) by Aral Balkan
