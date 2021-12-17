@@ -84,7 +84,6 @@ main>* {
 header {
   margin-bottom: 1rem;
   text-align: center;
-  background: var(--accent-bg);
   padding-bottom: 1rem;
 }
 
