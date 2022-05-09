@@ -1,6 +1,6 @@
 ---
 title: The Web Is Fucked
-description: The web is fucked and there's nothing we can do about it. This is a manifesto by Kev Quirk looking back at Web 1.0 and why it was better.
+description: The web is fucked and there's nothing we can do about it. Kev Quirk looks back fondly at Web 1.0.
 layout: default
 image: /assets/images/feature.webp
 ---
@@ -14,10 +14,10 @@ The Internet has been monetised by social media, by big tech, by search engines.
 
 *Again, it's shit.*
 
-**This is my manifesto; a warning to everyone who uses the web. It's fucked and it's not gonna change.**
+**This a warning to everyone who uses the web. It's fucked and it's not gonna change.**
 
 {: .notice}
-**Content warning:** If you hadn't noticed already, this manifesto is not suitable for work as it contains curse words throughout.
+**Content warning:** If you hadn't noticed already, this page is not suitable for work as it contains curse words throughout.
 
 ## What was Web 1.0?
 I suppose a good place to start would be with some context. If you weren't a user of the Internet back in the 90s and 00s, then you're not likely to know what [Web 1.0](https://en.wikipedia.org/wiki/Web_2.0#Web_1.0) was.
@@ -184,7 +184,7 @@ Don't worry, we're getting close to end now folks, but I wanted to quickly touch
 Yeah, fuck that. Fuck blockchain. Fuck Meta. Fuck Zuck the schmuck. That's all I have to say about that.
 
 ## Fuck this
-I'm done. There you have it. That's my manifesto about how fucked the web is. Look, we will never get the web of old back. Let's be honest, it wasn't perfect either. The web of today is more accessible, more dynamic and pretty much a cornerstone of our society.
+I'm done. There you have it. That's my opinion about how fucked the web is. Look, we will never get the web of old back. Let's be honest, it wasn't perfect either. The web of today is more accessible, more dynamic and pretty much a cornerstone of our society.
 
 As long as we use the web with our eyes open and try to take advantage of the few positives it still provides, it *may* not be that bad.
 
