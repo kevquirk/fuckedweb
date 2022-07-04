@@ -4,7 +4,7 @@
   --accent-bg: #ddd;
   --text: #333;
   --accent: #FF5722;
-  --font: MetaSerifPro, Iowan Old Style, Apple Garamond, Baskerville, Georgia, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --font: Georgia, "Times New Roman", Times, serif;
 }
 
 /* Change to dark theme */
@@ -14,45 +14,6 @@
     --accent-bg: #222;
     --text: #ccc;
   }
-}
-
-/**** FONTS ****/
-
-/* Mets Serif */
-@font-face {
-    font-family: 'MetaSerifPro';
-    src: url('/assets/fonts/meta-serif/MetaSerifPro-BoldIta.woff2') format('woff2'),
-        url('/assets/fonts/meta-serif/MetaSerifPro-BoldIta.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'MetaSerifPro';
-    src: url('/assets/fonts/meta-serif/MetaSerifPro-Bold.woff2') format('woff2'),
-        url('/assets/fonts/meta-serif/MetaSerifPro-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'MetaSerifPro';
-    src: url('/assets/fonts/meta-serif/MetaSerifPro-Book.woff2') format('woff2'),
-        url('/assets/fonts/meta-serif/MetaSerifPro-Book.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'MetaSerifPro';
-    src: url('/assets/fonts/meta-serif/MetaSerifPro-BookIta.woff2') format('woff2'),
-        url('/assets/fonts/meta-serif/MetaSerifPro-BookIta.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
 }
 
 body {
