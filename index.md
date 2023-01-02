@@ -145,7 +145,7 @@ Yes, it's that old chestnut again. The moolah. The green. The Benjamins. Look at
 {: .full-bleed}
 ![DuckDuckGo Ads in results](/assets/images/ddg-results.webp){: loading="lazy"}
 
-All of this has effectively killed off the humble personal blog. [Personal blogging isn't dead yet](https://metaletter.net/issue-01/), but it's *extremely* difficult to gain any traction with a blog these days.
+All of this has effectively killed off the humble personal blog. [Personal blogging isn't dead yet](https://startafuckingblog.com), but it's *extremely* difficult to gain any traction with a blog these days.
 
 Google et al where supposed to make content discovery easier. What the fuck happened?
 
