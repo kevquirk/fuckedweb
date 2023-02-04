@@ -115,7 +115,7 @@ They track you so they can use your data to display more targeted ads on their p
 ### Fuck search engines
 Although Zuckerberg and his merry band of wankers have a lot to answer for, the death of web 1.0 and the humble personal blog is not their fault alone. Search plays a huge part in this shit show too.
 
-Back in the day, search engines were rudimentary at best, but they have since grown into these Goliaths were even [Google doesn't really understand how their shit works](https://www.seroundtable.com/google-dont-understand-rankbrain-21744.html).
+Back in the day, search engines were rudimentary at best, but they have since grown into these Goliaths where even [Google doesn't really understand how their shit works](https://www.seroundtable.com/google-dont-understand-rankbrain-21744.html).
 
 In some ways this is good, as we get far more accurate search results. But there are two very important problems with this...
 
@@ -147,7 +147,7 @@ Yes, it's that old chestnut again. The moolah. The green. The Benjamins. Look at
 
 All of this has effectively killed off the humble personal blog. [Personal blogging isn't dead yet](https://startafuckingblog.com), but it's *extremely* difficult to gain any traction with a blog these days.
 
-Google et al where supposed to make content discovery easier. What the fuck happened?
+Google et al were supposed to make content discovery easier. What the fuck happened?
 
 ## Don't fuck yourself
 This is all very negative, so let's inject some positivity into this shit show, shall we? *The web is fucked* that's a fact, but there are still ways you can take Web 1.0 and sprinkle it with a little Web 2.0 so you can use it to your advantage.
@@ -159,7 +159,7 @@ You can choose which social platforms you use and how to use them so that it's d
 
 * Get the fuck off Facebook. That shit is a cancer.
 * Look for decentralised alternatives, like [Mastodon](https://joinmastodon.org).
-* [Break your dopamine addiction](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) and turn off **all** notifications from social media. This way you check it when you want to, rather then when it tells you to.
+* [Break your dopamine addiction](https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/) and turn off **all** notifications from social media. This way you check it when you want to, than when it tells you to.
 * Familiarise yourself with [POSSE](https://indieweb.org/POSSE) and make your site the single source of truth for all your online content.
 
 ## Discovering Web 1.0 content in a Web 2.0 world
@@ -174,7 +174,7 @@ Just like on GeoCities, you can spin up your own site for free, and for a mere $
 
 If you want to get *really* nostalgic, there are even pages on Neocities that are [similar to GeoCities neighbourhoods](https://districts.neocities.org/).
 
-If Neocities isn't your thing and you want to discover more modern personal blogs ([like mine](https://kevq.uk/posts)) then I got you covered there too. Sites like [Blog Surf](https://blogsurf.io/) and [Personalsit.es](https://personalsit.es/) can help you discover some great personal sites.
+If Neocities isn't your thing and you want to discover more modern personal blogs ([like mine](https://kevquirk.com)) then I got you covered there too. Sites like [Blog Surf](https://blogsurf.io/) and [Personalsit.es](https://personalsit.es/) can help you discover some great personal sites.
 
 Also look for a [blogroll](https://kevq.uk/blogroll) on personal websites you come across. If you own a website, **add a blogroll to your site**. It will help people discover content you enjoy without the need for Google's gaggle of gobshites.
 
