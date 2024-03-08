@@ -176,7 +176,7 @@ If you want to get *really* nostalgic, there are even pages on Neocities that ar
 
 If Neocities isn't your thing and you want to discover more modern personal blogs ([like mine](https://kevquirk.com)) then I got you covered there too. Sites like [Blog Surf](https://blogsurf.io/) and [Personalsit.es](https://personalsit.es/) can help you discover some great personal sites.
 
-Also look for a [blogroll](https://kevq.uk/blogroll) on personal websites you come across. If you own a website, **add a blogroll to your site**. It will help people discover content you enjoy without the need for Google's gaggle of gobshites.
+Also look for a [blogroll](https://kevquirk.com/blogroll) on personal websites you come across. If you own a website, **add a blogroll to your site**. It will help people discover content you enjoy without the need for Google's gaggle of gobshites.
 
 ## What about Web 3.0?
 Don't worry, we're getting close to end now folks, but I wanted to quickly touch upon [Web 3.0 and the Metaverse](https://uk.finance.yahoo.com/news/explainer-what-is-metaverse-and-web-30-060003351.html). If you don't know what these are; the Metaverse is what that dickhead Zuckerberg is pushing with Meta and Web 3.0 is basically putting all the things on blockchain.
@@ -190,7 +190,7 @@ As long as we use the web with our eyes open and try to take advantage of the fe
 
 Then again, the web might be completely and utterly fucked and it's only gonna get worse. One thing is for sure, if Zuck the crook has anything to do with Web 3.0, things will *definitely* get worse.
 
-**If you want to tell me your thoughts on this whole big shit show, please feel free to [get in touch](https://kevq.uk/contact).**
+**If you want to tell me your thoughts on this whole big shit show, please feel free to [get in touch](https://kevquirk.com/contact).**
 
 ## Further reading
 If you enjoyed *The Web Is Fucked*, you might want to do a little more reading on the subject. If so, here's a few links to help you get started:
